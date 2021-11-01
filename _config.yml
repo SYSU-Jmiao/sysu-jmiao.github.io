@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 title                    : "Miao Jiang (姜淼)/ Homepage"
 title_separator          : "-"
 name                     : &name "Miao Jiang (姜淼)"
@@ -83,8 +83,8 @@ author:
   name             : "Miao Jiang(姜淼)"
   avatar           : "jm.png"
   bio              : 
-  location         : "Guangzhou"
-  employer         : "The Guangdong University of Technology"
+  location         : "Guangzhou, Guangdong"
+  employer         : 
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7pMF_MwAAAAJ"
   email            : "jmiao@gdut.edu.cn"
